@@ -32,5 +32,13 @@ public class Present {
     public void setDescription(String description) {
         this.description = description;
     }
+
+    @Override
+    public String toString() {
+        return "Present{" +
+                "subject = '" + subject + '\'' +
+                ", description = " + description +
+                '}';
+    }
 }
 
