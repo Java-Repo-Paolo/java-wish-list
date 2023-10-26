@@ -1,4 +1,4 @@
-package org.lessons.java;
+package org.lessons.java.presentlist;
 
 public class Present {
 
